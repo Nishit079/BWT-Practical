@@ -1,2 +1,2 @@
-BWT(Basics Of Web Technology) 2024 @Guni 
+BWT(Basics Of Web Technology) 2024 @Guni
 
